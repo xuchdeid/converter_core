@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Unitconvert_coreActivity!</string>
+    <string name="app_name">Unitconvert_core</string>
+    <string name="numform">the value of the number is too large</string>
+
+</resources>
